@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-component-orcin-chi.vercel.app/)
+- Live Site URL: [https://qr-code-component-orcin-chi.vercel.app/](https://qr-code-component-orcin-chi.vercel.app/)
 
 ## My process
 
@@ -55,5 +55,5 @@ I plan to continue practicing and building projects to strengthen my understandi
 
 - Frontend Mentor - [@mubarakik](https://www.frontendmentor.io/profile/mubarakik)
 - GitHub - [@mubarakik](https://github.com/mubarakik)
-- LinkedIn - [@mubarakik](https://www.linkedin.com/in/mubaraka-kikonyogo-950010271)
+- LinkedIn - [@mubaraka-kikonyogo](https://www.linkedin.com/in/mubaraka-kikonyogo-950010271)
 - X - [@mubarakik\_](https://twitter.com/mubarakik_)
