@@ -55,5 +55,5 @@ I plan to continue practicing and building projects to strengthen my understandi
 
 - Frontend Mentor - [@mubarakik](https://www.frontendmentor.io/profile/mubarakik)
 - GitHub - [@mubarakik](https://github.com/mubarakik)
-- LinkedIn - [@mubarakik](https://www.linkedin.com/in/mubaraka-kikonyogo-950010271)
+- LinkedIn - [@mubaraka-kikonyogo](https://www.linkedin.com/in/mubaraka-kikonyogo-950010271)
 - X - [@mubarakik\_](https://twitter.com/mubarakik_)
